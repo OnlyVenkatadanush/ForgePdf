@@ -1,5 +1,3 @@
-# ForgePdf
-🔥 ForgePDF – Shape. Slice. Secure.
 <h1 align="center">🛠️ ForgePDF</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square" />
@@ -19,7 +17,7 @@
     <img src="https://img.shields.io/badge/Launch%20App-Click%20Here-critical?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/YourUsername/ForgePDF" target="_blank">
+  <a href="https://github.com/OnlyVenkatadanush/ForgePdf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repo-333?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -74,3 +72,48 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+```
+---
+
+## 🔐 Security
+
+- **Passwords are handled client-side**  
+- **No PDFs or passwords are stored on any server**  
+- **All operations are local in memory (`BytesIO`)**
+
+---
+
+## 💡 Future Plans
+
+- 🧠 AI-based PDF summarizer  
+- 🗃️ File compression before download  
+- 🎨 Dark mode toggle  
+- 📌 Add watermarking and annotation support  
+- 🤖 Form auto-fill using GPT-powered data  
+
+---
+
+## 🤝 Contributing
+
+Want to make PDF tools more powerful and fun?  
+Pull requests are welcome — let’s forge something epic.
+
+```bash
+# Fork it
+# Create your feature branch
+git checkout -b feature/super-splitter
+
+# Commit your changes
+git commit -m 'Add ultra smart PDF splitting'
+
+# Push to the branch
+git push origin feature/super-splitter
+
+# Open a PR
+```
+## 🧠 Inspiration
+Built with love, 🔥 by devs who believe boring PDF tools should be extinct.
+
+"You don't just edit PDFs. You forge them." 💥
+
+
